@@ -10,9 +10,9 @@ function Login() {
         <p className='font-light text-sm'>Login to Continue to your account</p>
         <br />
         <form action="">
-        <input type='email'placeholder='Email' className="mt-3 rounded-full   bg-transparent  text-black outline-white px-10  ring-2 ring-white" />
+        <input type='email'placeholder='Email' className="mt-3 rounded-full   bg-transparent  text-black outline-white px-10  ring-2 ring-white placeholder-white" />
         <br />
-        <input type='password'placeholder='Password' className=" rounded-full  bg-transparent text-black outline-white mt-3  px-10 ring-white ring-2" />
+        <input type='password'placeholder='Password' className=" rounded-full  bg-transparent text-black outline-white mt-3  px-10 ring-white ring-2 placeholder-white" />
         <br />
         <a className=' text-xs ml-20 pl-12 '>Forget your Password</a>
         <br />
