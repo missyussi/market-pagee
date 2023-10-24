@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::placeholder{
+    color: white;
+}
+img{
+    mix-blend-mode:darken;
+}
