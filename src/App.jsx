@@ -4,13 +4,11 @@ import React from 'react'
 import './index.css'
 
 import Vnav from './components/Vnav'
-import NavBar from './components/navbar'
-import VmenuBar from './components/Vmenubar'
+import NavBar from './components/Navbar'
 function App() {
   return (
     <>
     <NavBar/>
-    <VmenuBar/>
     <Vnav/>
 {/*    
     <div className=" grid grid-cols-12  m-8 rounded-md border-orange-500 border-2 h-screen ">
